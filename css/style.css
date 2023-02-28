@@ -40,7 +40,7 @@ header{
 .todo{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    margin: 1px;
+    border: 5px;
     margin-left: 40px;
     display: inline-block;
 }
@@ -49,5 +49,25 @@ header{
     background-color: #45ABEA;
     border: 5px solid #45ABEA;
     border-radius: 12px;
+    margin-left: 3px;
+}
+.goals{
+    background-color: #9C72E4;
+    border: 5px solid #9C72E4;
+    border-radius: 12px;
+    margin-left: 3px;
+}
 
+.recruiting{
+    background-color: #64C0A9;
+    border: 5px solid #64C0A9;
+    border-radius: 12px;
+    margin-left: 3px;
+}
+
+.mobile{
+    background-color: #F29E33;
+    border: 5px solid #F29E33;
+    border-radius: 12px;
+    margin-left: 3px;
 }
