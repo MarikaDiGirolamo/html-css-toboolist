@@ -58,6 +58,10 @@ header{
     border: 1px solid #C5CCD1;
     margin-top: 15px;
   }
+
+  hr{
+    border: 2px solid whitesmoke;
+  }
   /* 1st Section Properties */
 .Task{
     font-family: Arial, Helvetica, sans-serif;
@@ -68,8 +72,9 @@ header{
 .todo{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+    font-weight: lighter;
     border: 5px;
-    margin-left: 5px;
+    margin-left: 15px;
     display: inline-block;
 }
 
@@ -82,7 +87,7 @@ header{
     text-align: center;
     font-weight: bold;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 15px;
     margin-top: 20px;
 }
 
@@ -95,7 +100,7 @@ header{
     text-align: center;
     font-weight: bold;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 15px;
     margin-top: 20px;
 }
 
