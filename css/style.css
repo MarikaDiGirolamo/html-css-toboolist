@@ -27,6 +27,7 @@ header{
   }
 
   main{
+    box-sizing: border-box;
     max-width: 800px;
     margin: auto;
   }
@@ -41,4 +42,12 @@ header{
     font-size: 20px;
     margin: 1px;
     margin-left: 40px;
+    display: inline-block;
+}
+
+.editorial{
+    background-color: #45ABEA;
+    border: 5px solid #45ABEA;
+    border-radius: 12px;
+
 }
