@@ -84,3 +84,8 @@ header{
     border-radius: 12px;
     margin-left: 3px;
 }
+footer{
+    box-sizing: border-box;
+    max-width: 800px;
+    margin: auto;
+}
