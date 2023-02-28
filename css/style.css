@@ -25,3 +25,8 @@ header{
   body{
     background-color: gray;
   }
+
+  main{
+    max-width: 800px;
+    margin: auto;
+  }
