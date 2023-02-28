@@ -2,7 +2,7 @@ header{
     background-color: white;
     background-size: auto 160px;
     height: 150px;
-    
+    margin-bottom: 60px;
     
 }
 /* Logo */
@@ -93,6 +93,9 @@ header{
 }
 
 footer{
+    background-color: #FFFFFF;
+    border: 10px solid white;
+    border-radius: 15px;
     box-sizing: border-box;
     max-width: 800px;
     margin: auto;
