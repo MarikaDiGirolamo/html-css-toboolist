@@ -35,6 +35,29 @@ header{
     max-width: 800px;
     margin: auto;
   }
+
+  #butt1{
+    background-color: #47ADF1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 15px;
+    margin-left: 50px;
+  }
+
+  #butt2{
+    background-color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #C5CCD1;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #C5CCD1;
+    margin-top: 15px;
+  }
   /* 1st Section Properties */
 .Task{
     font-family: Arial, Helvetica, sans-serif;
@@ -51,6 +74,8 @@ header{
 }
 
 .editorial{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
     background-color: #45ABEA;
     border: 5px solid #45ABEA;
     border-radius: 12px;
@@ -58,6 +83,8 @@ header{
 }
 /* 2nd Section properties */
 #goals{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
     background-color: #9C72E4;
     border: 5px solid #9C72E4;
     border-radius: 12px;
@@ -65,6 +92,8 @@ header{
 }
 
 .recruiting{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
     background-color: #64C0A9;
     border: 5px solid #64C0A9;
     border-radius: 12px;
@@ -72,6 +101,8 @@ header{
 }
 
 #mobile{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
     background-color: #F29E33;
     border: 5px solid #F29E33;
     border-radius: 12px;
@@ -79,6 +110,8 @@ header{
 }
 /* 3rd Section Properties */
 #website{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
     background-color: #D863A1;
     border: 5px solid #D863A1;
     border-radius: 12px;
@@ -86,6 +119,8 @@ header{
 }
 
 #sales{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
     background-color: #B0C926;
     border: 5px solid #B0C926;
     border-radius: 12px;
