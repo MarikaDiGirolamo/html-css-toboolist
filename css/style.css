@@ -51,7 +51,7 @@ header{
     border-radius: 12px;
     margin-left: 3px;
 }
-.goals{
+#goals{
     background-color: #9C72E4;
     border: 5px solid #9C72E4;
     border-radius: 12px;
@@ -65,9 +65,22 @@ header{
     margin-left: 3px;
 }
 
-.mobile{
+#mobile{
     background-color: #F29E33;
     border: 5px solid #F29E33;
+    border-radius: 12px;
+    margin-left: 3px;
+}
+#website{
+    background-color: #D863A1;
+    border: 5px solid #D863A1;
+    border-radius: 12px;
+    margin-left: 3px;
+}
+
+#sales{
+    background-color: #B0C926;
+    border: 5px solid #B0C926;
     border-radius: 12px;
     margin-left: 3px;
 }
